@@ -5,36 +5,21 @@
       "projectIconPath": "./icon.jpg",
       "comment": "Project 1 is working in progress",
       "createdDate": "2019/8/30",
-      "createdBy": "Admin",
-      "progress": 80,
-      "isDelete": 0,
-      "deletedDate": 0,
-      "deletedBy": "",
-      "id": 1
+     
     },
     {
       "projectName": "Project 2",
       "projectIconPath": "./path2",
       "comment": "Bosspos data",
       "createdDate": "2019/8/30",
-      "createdBy": "John Doe",
-      "progress": 50,
-      "isDelete": 0,
-      "deletedDate": 0,
-      "deletedBy": "",
-      "id": 2
+      
     },
     {
       "projectName": "Project 3",
       "projectIconPath": "./path2",
       "comment": "Bosspos data",
       "createdDate": "2019/8/30",
-      "createdBy": "Admin",
-      "progress": 45,
-      "isDelete": 0,
-      "deletedDate": 0,
-      "deletedBy": "",
-      "id": 3
+    
     }
   ],
   "DatasetMaster": [
