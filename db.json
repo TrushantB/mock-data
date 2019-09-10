@@ -38,6 +38,19 @@
       "deletedDate": 0,
       "deletedBy": "",
       "id": 3
+    },
+    {
+      "projectName": "Project 4",
+      "projectIconPath": "G.png",
+      "comment": "this is a project for kids",
+      "status": "Pending",
+      "createdDate": "2019/9/9",
+      "createdBy": "Admin",
+      "progress": 0,
+      "isDelete": 0,
+      "deletedDate": 0,
+      "deletedBy": "",
+      "id": 4
     }
   ],
   "DatasetMaster": [
@@ -248,10 +261,34 @@
       "deletedDate": 0,
       "deletedBy": "",
       "id": 16
+    },
+    {
+      "projectId": 4,
+      "datasetName": "Dataset 1",
+      "datasetType": "Image",
+      "comment": "only Image",
+      "createdDate": "2019-9-9",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": 0,
+      "deletedBy": "",
+      "id": 17
+    },
+    {
+      "projectId": 4,
+      "datasetName": "Dataset 2",
+      "datasetType": "Video",
+      "comment": "only video",
+      "createdDate": "2019-9-9",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": 0,
+      "deletedBy": "",
+      "id": 18
     }
   ],
   "DatasetDetails": [
-   {
+    {
       "id": 1,
       "datasetMasterId": 1,
       "fileName": "dataset1.1",
@@ -452,88 +489,5 @@
       "createdBy": "Admin",
       "id": 14
     }
-  ],
-  "statistics": [
-    {
-      "id": 1,
-      "datasetName": "Dataset 1",
-      "attributeAssigned": 80,
-      "objectAnnotated": 60,
-      "framesProcesed": 40,
-      "attributeAssigmedValue": 2045,
-      "objectAnnotatedValue": 1500,
-      "framesProcesedValue": 1000
-    },
-    {
-      "id": 2,
-      "datasetName": "Dataset 2",
-      "attributeAssigned": 95,
-      "objectAnnotated": 80,
-      "framesProcesed": 75,
-      "attributeAssigmedValue": 3099,
-      "objectAnnotatedValue": 2500,
-      "framesProcesedValue": 2000
-    },
-    {
-      "id": 3,
-      "datasetName": "Dataset 3",
-      "attributeAssigned": 70,
-      "objectAnnotated": 60,
-      "framesProcesed": 10,
-      "attributeAssigmedValue": 1717,
-      "objectAnnotatedValue": 1200,
-      "framesProcesedValue": 999
-    },
-    {
-      "id": 4,
-      "datasetName": "Dataset 4",
-      "attributeAssigned": 60,
-      "objectAnnotated": 55,
-      "framesProcesed": 40,
-      "attributeAssigmedValue": 2020,
-      "objectAnnotatedValue": 1010,
-      "framesProcesedValue": 1000
-    },
-    {
-      "id": 5,
-      "datasetName": "Dataset 5",
-      "attributeAssigned": 90,
-      "objectAnnotated": 70,
-      "framesProcesed": 50,
-      "attributeAssigmedValue": 2045,
-      "objectAnnotatedValue": 1500,
-      "framesProcesedValue": 1000
-    },
-    {
-      "id": 6,
-      "datasetName": "Dataset 6",
-      "attributeAssigned": 80,
-      "objectAnnotated": 40,
-      "framesProcesed": 20,
-      "attributeAssigmedValue": 5000,
-      "objectAnnotatedValue": 4000,
-      "framesProcesedValue": 1000
-    },
-    {
-      "id": 7,
-      "datasetName": "Dataset 7",
-      "attributeAssigned": 60,
-      "objectAnnotated": 30,
-      "framesProcesed": 10,
-      "attributeAssigmedValue": 9000,
-      "objectAnnotatedValue": 5000,
-      "framesProcesedValue": 2000
-    },
-    {
-      "id": 8,
-      "datasetName": "Dataset 8",
-      "attributeAssigned": 80,
-      "objectAnnotated": 60,
-      "framesProcesed": 40,
-      "attributeAssigmedValue": 3999,
-      "objectAnnotatedValue": 1950,
-      "framesProcesedValue": 1212
-    }
   ]
-
 }
