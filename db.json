@@ -194,5 +194,37 @@
       "createdBy": "Admin",
       "id": 4
     }
+  ],
+  "Category": [
+    {
+      "categoryName": "Vehicle",
+      "active": 1,
+      "createdDate": "17/9/2019",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": "",
+      "deletedBy": "",
+      "id": 4
+    },
+    {
+      "categoryName": "Bag",
+      "active": 1,
+      "createdDate": "21/9/2019",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": "",
+      "deletedBy": "",
+      "id": 5
+    },
+    {
+      "categoryName": "person",
+      "active": 1,
+      "createdDate": "24/9/2019",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": "",
+      "deletedBy": "",
+      "id": 6
+    }
   ]
 }
