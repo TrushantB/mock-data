@@ -215,26 +215,6 @@
       "objectAnnotatedValue": 2500,
       "framesProcesedValue": 2000,
       "id": 9
-    },
-    {
-      "projectId": 2,
-      "datasetName": "test rahul",
-      "comment": "dsdfds",
-      "status": "Inprogress",
-      "createdDate": "25/9/2019",
-      "createdBy": "Admin",
-      "isDelete": 0,
-      "deletedDate": 0,
-      "deletedBy": "",
-      "timeForAnnotation": 9,
-      "timeForQualityAssurance": 3,
-      "attributeAssigned": 53,
-      "objectAnnotated": 66,
-      "framesProcesed": 6,
-      "attributeAssigmedValue": 2556,
-      "objectAnnotatedValue": 196,
-      "framesProcesedValue": 4985,
-      "id": 10
     }
   ],
   "DatasetDetails": [
