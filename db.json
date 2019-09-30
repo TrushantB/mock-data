@@ -290,63 +290,7 @@
       "id": 4
     }
   ],
-  "Category": [
-    {
-      "projectId": 1,
-      "categoryName": "Person",
-      "active": 1,
-      "createdDate": "25/9/2019",
-      "createdBy": "Admin",
-      "isDelete": 0,
-      "deletedDate": "",
-      "deletedBy": "",
-      "id": 1
-    },
-    {
-      "projectId": 2,
-      "categoryName": "Bag",
-      "active": 1,
-      "createdDate": "26/9/2019",
-      "createdBy": "Admin",
-      "isDelete": 0,
-      "deletedDate": "",
-      "deletedBy": "",
-      "id": 2
-    },
-    {
-      "projectId": 1,
-      "categoryName": "Colours",
-      "active": 1,
-      "createdDate": "25/9/2019",
-      "createdBy": "Admin",
-      "isDelete": 0,
-      "deletedDate": "",
-      "deletedBy": "",
-      "id": 3
-    },
-    {
-      "projectId": 2,
-      "categoryName": "Face",
-      "active": 1,
-      "createdDate": "26/9/2019",
-      "createdBy": "Admin",
-      "isDelete": 0,
-      "deletedDate": "",
-      "deletedBy": "",
-      "id": 4
-    },
-    {
-      "projectId": 1,
-      "categoryName": "Vehicle",
-      "active": 1,
-      "createdDate": "27/9/2019",
-      "createdBy": "Admin",
-      "isDelete": 0,
-      "deletedDate": "",
-      "deletedBy": "",
-      "id": 5
-    }
-  ], 
+   
   "Attributes": [
     {
       "id":1,
