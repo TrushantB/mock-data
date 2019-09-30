@@ -290,6 +290,18 @@
       "id": 4
     }
   ],
+  "Category": [
+    {
+      "projectId": 1,
+      "categoryName": "Person",
+      "active": 1,
+      "createdDate": "25/9/2019",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": "",
+      "deletedBy": ""
+    }
+  ], 
   "Attributes": [
     {
       "id":1,
