@@ -299,7 +299,25 @@
       "createdBy": "Admin",
       "isDelete": 0,
       "deletedDate": "",
-      "deletedBy": ""
+      "deletedBy": "",
+      "processing": [
+        {
+          "processName": "Automaton AI",
+          "value": 39
+        },
+        {
+          "processName": "Resnet V1",
+          "value": 75
+        },
+        {
+          "processName": "YOLO",
+          "value": 69
+        },
+        {
+          "processName": "Mask R-CNN",
+          "value": 91
+        }
+      ]
     },
     {
       "projectId": 2,
@@ -310,7 +328,25 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "id": 2
+      "id": 2,
+       "processing": [
+        {
+          "processName": "Automaton AI",
+          "value": 39
+        },
+        {
+          "processName": "Resnet V1",
+          "value": 75
+        },
+        {
+          "processName": "YOLO",
+          "value": 69
+        },
+        {
+          "processName": "Mask R-CNN",
+          "value": 91
+        }
+      ]
     }
   ], 
   "Attributes": [
