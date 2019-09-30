@@ -379,6 +379,35 @@
       "id": 3
     },
     {
+      "projectId": 2,
+      "categoryName": "Face",
+      "active": 1,
+      "createdDate": "26/9/2019",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": "",
+      "deletedBy": "",
+      "id": 4,
+      "processing": [
+        {
+          "processName": "Automaton AI",
+          "value": 0
+        },
+        {
+          "processName": "Resnet V1",
+          "value": 0
+        },
+        {
+          "processName": "YOLO",
+          "value": 0
+        },
+        {
+          "processName": "Mask R-CNN",
+          "value": 0
+        }
+      ]
+    },
+    {
       "projectId": 1,
       "categoryName": "Vehicle",
       "active": 1,
@@ -458,6 +487,16 @@
       "deletedDate": "",
       "deletedBy": "",
       "id": 5
+    },
+    {
+      "categoryId": 4,
+      "attributeName": "Round",
+      "createdDate": "19/9/2019",
+      "createdBy": "Admin",
+      "isDelete": 0,
+      "deletedDate": "",
+      "deletedBy": "",
+      "id": 6
     }
   ]
 }
