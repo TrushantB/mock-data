@@ -300,24 +300,6 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "processing": [
-        {
-          "processName": "Automaton AI",
-          "value": 39
-        },
-        {
-          "processName": "Resnet V1",
-          "value": 75
-        },
-        {
-          "processName": "YOLO",
-          "value": 69
-        },
-        {
-          "processName": "Mask R-CNN",
-          "value": 91
-        }
-      ],
       "id": 1
     },
     {
@@ -329,25 +311,7 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "id": 2,
-      "processing": [
-        {
-          "processName": "Automaton AI",
-          "value": 0
-        },
-        {
-          "processName": "Resnet V1",
-          "value": 0
-        },
-        {
-          "processName": "YOLO",
-          "value": 0
-        },
-        {
-          "processName": "Mask R-CNN",
-          "value": 0
-        }
-      ]
+      "id": 2
     },
     {
       "projectId": 1,
@@ -358,24 +322,6 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "processing": [
-        {
-          "processName": "Automaton AI",
-          "value": 70
-        },
-        {
-          "processName": "Resnet V1",
-          "value": 10
-        },
-        {
-          "processName": "YOLO",
-          "value": 70
-        },
-        {
-          "processName": "Mask R-CNN",
-          "value": 10
-        }
-      ],
       "id": 3
     },
     {
@@ -387,25 +333,7 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "id": 4,
-      "processing": [
-        {
-          "processName": "Automaton AI",
-          "value": 0
-        },
-        {
-          "processName": "Resnet V1",
-          "value": 0
-        },
-        {
-          "processName": "YOLO",
-          "value": 0
-        },
-        {
-          "processName": "Mask R-CNN",
-          "value": 0
-        }
-      ]
+      "id": 4
     },
     {
       "projectId": 1,
@@ -416,25 +344,7 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "processing": [
-        {
-          "processName": "Automaton AI",
-          "value": 20
-        },
-        {
-          "processName": "Resnet V1",
-          "value": 40
-        },
-        {
-          "processName": "YOLO",
-          "value": 70
-        },
-        {
-          "processName": "Mask R-CNN",
-          "value": 90
-        }
-      ],
-      "id": 4
+      "id": 5
     }
   ],
   "Attributes": [
