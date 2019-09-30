@@ -299,25 +299,7 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "id": 4,
-      "processing": [
-        {
-          "processName": "Automaton AI",
-          "value": 20
-        },
-        {
-          "processName": "Resnet V1",
-          "value": 40
-        },
-        {
-          "processName": "YOLO",
-          "value": 70
-        },
-        {
-          "processName": "Mask R-CNN",
-          "value": 90
-        }
-      ]
+      "id": 4
     },
     {
       "categoryName": "Bag",
@@ -327,25 +309,7 @@
       "isDelete": 0,
       "deletedDate": "",
       "deletedBy": "",
-      "id": 5,
-      "processing": [
-        {
-          "processName": "Automaton AI",
-          "value": 20
-        },
-        {
-          "processName": "Resnet V1",
-          "value": 40
-        },
-        {
-          "processName": "YOLO",
-          "value": 70
-        },
-        {
-          "processName": "Mask R-CNN",
-          "value": 90
-        }
-      ]
+      "id": 5
     },
     {
       "categoryName": "person",
